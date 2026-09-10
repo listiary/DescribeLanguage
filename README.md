@@ -3,9 +3,11 @@
 
 _Maintaining large data lists, made easy_  
 
-Describe is a domain specific language used to write and maintain complex data lists that are compiled on demand to different languages, like html, xml, xaml, sql or json. Describe is simple to use, intuitive and easy to master, and readily extendible.
+Describe is a domain-specific language used to write and maintain complex data lists that can be compiled on demand into different languages, including HTML, XML, XAML, SQL, and JSON. Describe is simple to use, intuitive and easy to master, and readily extendable.
 
-Second-brain apps and some websites are some of the use cases, although anything that someone would rather think about in terms of lists is a good candidate.
+Describe was developed as the markup language behind the Listiary wiki engine, in much the same way that Wiki Markup powers MediaWiki and, by extension, Wikipedia.
+
+Nevertheless, Describe is a standalone language and can be used independently of Listiary. It is a niche language, but a robust and modular one, with virtually no learning curve.
 
 
 ## Get in touch  
